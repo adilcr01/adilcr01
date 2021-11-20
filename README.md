@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @adilcr01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+My name is Adil Anwar
+I am a Jr. Data Scientist, with skills in Machine Learning, Deep Learning, and NLP. I have worked on frameworks such as Tensorflow, Keras, Scikit-learn, and Flask. I have built several End to End projects with machine learning, deep learning, and NLP. I am also having good programming skills in Python and java along with the Knowledge of Data Structures and Algorithms.
 
-<!---
-adilcr01/adilcr01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My key skills in data science projects include EDA, feature Engineering, data cleaning.
+
+Skills: Python / Machine Learning / Deep Learning / NLP / Feature Engineering
+
+    🔭 I’m currently working on Time Series
+    🌱 I’m currently learning Blockchain
+    👯 I’m looking to collaborate on Kaggle competitions
+    📫 How to reach me: Linkedin
+
+github linkedin
