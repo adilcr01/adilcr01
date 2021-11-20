@@ -3,12 +3,7 @@
 
 #### My key skills in data science projects include EDA, feature Engineering, data cleaning.
 
-#### Skills: Python / Machine Learning/ NLP / Feature Engineering
-
-    🔭 I’m currently working on Time Series
-    🌱 I’m currently learning Blockchain
-    👯 I’m looking to collaborate on Kaggle competitions
-    📫 How to reach me: Linkedin    
+#### Skills: Python / Machine Learning/ NLP / Feature Engineering / Heroku / Streamlit / Flask 
 
 
 
