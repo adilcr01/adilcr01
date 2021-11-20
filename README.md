@@ -8,6 +8,7 @@ Skills: Python / Machine Learning / Deep Learning / NLP / Feature Engineering
     🔭 I’m currently working on Time Series
     🌱 I’m currently learning Blockchain
     👯 I’m looking to collaborate on Kaggle competitions
-    📫 How to reach me: Linkedin
+    📫 How to reach me: Linkedin ![image](https://user-images.githubusercontent.com/93968656/142734682-b73542a2-3366-4712-bf51-9451b230c98e.png)
 
-github linkedin
+
+
