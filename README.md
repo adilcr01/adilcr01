@@ -9,7 +9,7 @@ Skills: Python / Machine Learning / Deep Learning / NLP / Feature Engineering
     🌱 I’m currently learning Blockchain
     👯 I’m looking to collaborate on Kaggle competitions
     📫 How to reach me: Linkedin    
-    ![image](https://user-images.githubusercontent.com/93968656/142734682-b73542a2-3366-4712-bf51-9451b230c98e.png)
+![image](https://user-images.githubusercontent.com/93968656/142734699-f5bcc1b9-1811-4317-8544-1b990c4be0eb.png)
 
 
 
