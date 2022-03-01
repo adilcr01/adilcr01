@@ -3,7 +3,7 @@
 
 #### My key skills in data science projects include EDA, feature Engineering, data cleaning.
 
-#### Skills: Python / Machine Learning/ NLP / Feature Engineering / Heroku / Streamlit / Flask 
+#### Skills: Python / Machine Learning/ NLP / Feature Engineering / Heroku / Streamlit / Flask / Tableau / MS- Excel
 
 
 
