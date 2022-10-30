@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/93968656/198863522-f3b4e101-d59d-4342-b459-899740c8a9c4.png)
+
+![helo](https://user-images.githubusercontent.com/89390696/197391947-44073cab-ffa1-4f6f-b0e9-a541afc7254a.gif)
 
 #### My name is Adil Anwar
 #### A proactive and fast learning individual seeking an opportunity to work as a data scientist. I have worked with Libraries and frameworks such as Scikit-learn, NLTK, Streamlit, Flask and many more. I have built several End to End projects with Machine learning and NLP. I am also having good programming skills in Python.
