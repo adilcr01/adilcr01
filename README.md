@@ -8,5 +8,7 @@
 
 #### Skills: Python / Machine Learning/ NLP / Feature Engineering / Azure / Streamlit / Flask / Power BI / Tableau / MS- Excel
 
+#### ✉️ 𝐌𝐚𝐢𝐥 𝐌𝐞 : adilalpha2@gmail.com
+
 
 
