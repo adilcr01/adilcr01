@@ -8,6 +8,12 @@
 
 #### Skills: Python / Machine Learning/ NLP / Feature Engineering / Azure / Streamlit / Flask / Power BI / Tableau / MS- Excel
 
+## 🌐 Socials:
+<img align="right" alt = "coding" height ="250" width="300" src="https://user-images.githubusercontent.com/89390696/197447346-2014f1c5-2dee-4be7-9c0c-bdab254a3291.gif">
+
+### [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-anwar-1b480b106)
+### [![Portfolio Website](![image](https://user-images.githubusercontent.com/93968656/198863611-bfbd9097-075f-4185-bcfd-19170f800ab1.png)](https://adilalpha.github.io/) 
+
 #### ✉️ 𝐌𝐚𝐢𝐥 𝐌𝐞 : adilalpha2@gmail.com
 
 
