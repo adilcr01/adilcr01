@@ -11,8 +11,7 @@
 ## 🌐 Socials:
 <img align="right" alt = "coding" height ="250" width="300" src="https://user-images.githubusercontent.com/89390696/197447346-2014f1c5-2dee-4be7-9c0c-bdab254a3291.gif">
 
-### [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-anwar-1b480b106) ![image](https://medium.com/@vamshikollipati)
-(https://medium.com/@vamshikollipati) 
+### [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-anwar-1b480b106)
 
 
  
