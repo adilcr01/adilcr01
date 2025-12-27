@@ -96,8 +96,14 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adilcr01&show_icons=true&theme=cobalt&hide_border=true&count_private=true" height="150" alt="GitHub Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilcr01&layout=compact&theme=cobalt&hide_border=true&langs_count=6" height="150" alt="Top Languages Graph" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=adilcr01&show_icons=true&theme=cobalt&hide_border=true" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilcr01&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" />
+  </p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer"/>
+<div style="width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
+</div>
