@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Hi,+I'm+Adil+Anwar;Python+%7C+Backend+%7C+Full+Stack+Developer;Architecting+Scalable+Cloud+Solutions;Integrating+AI+Models+(OpenAI+%2B+Claude)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&pause=1000&color=2F81F7&center=true&vCenter=true&width=1000&lines=+Hi,+I'm+Adil+Anwar;+Python+%7C+Backend+%7C+Full+Stack+Developer;+Architecting+Scalable+Cloud+Solutions;+Integrating+AI+Models+(OpenAI+%2B+Claude)" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,6 +15,7 @@
         <li>🔭 <b>Current Focus:</b> Scalable Django Architectures & Generative AI Integrations.</li>
         <li>🏢 <b>Experience:</b> Sajal Tech Solution (Present) & Lepton Software.</li>
         <li>⚙️ <b>Specialty:</b> Real-time systems (WebSockets/Daphne), Celery Automation, and Complex Scraping.</li>
+        <li>💳 <b>Integrations:</b> Secure Payment Gateways (Stripe, PayPal, Razorpay).</li>
         <li>🎓 <b>Education:</b> Integrated B.Tech + M.Tech, Mechanical Engineering.</li>
       </ul>
       <br />
