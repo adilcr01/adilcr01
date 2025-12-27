@@ -95,15 +95,6 @@
 
 <br/>
 
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=adilcr01&show_icons=true&theme=cobalt&hide_border=true" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilcr01&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" />
-  </p>
-</div>
-
 <div style="width: 100%;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
 </div>
