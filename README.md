@@ -13,7 +13,7 @@
       </p>
       <ul>
         <li>🔭 <b>Current Focus:</b> Scalable Django Architectures & Generative AI Integrations.</li>
-        <li>🏢 <b>Experience:</b> Sajal Tech Solution (Present) & Lepton Software.</li>
+        <li>🏢 <b>Experience:</b> Sajal Tech Solution (Present), Lepton Software & iNeuron.</li>
         <li>⚙️ <b>Specialty:</b> Real-time systems (WebSockets/Daphne), Celery Automation, and Complex Scraping.</li>
         <li>💳 <b>Integrations:</b> Secure Payment Gateways (Stripe, PayPal, Razorpay).</li>
         <li>🎓 <b>Education:</b> Integrated B.Tech + M.Tech, Mechanical Engineering.</li>
