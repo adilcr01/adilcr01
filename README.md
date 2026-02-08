@@ -25,7 +25,7 @@
       <a href="mailto:adilalpha2@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
-      <a href="https://adilalpha.github.io">
+      <a href="https://adilanwar.in">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
       </a>
     </td>
