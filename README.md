@@ -9,7 +9,7 @@
     <td width="60%">
       <h2>👨‍💻 About Me</h2>
       <p>
-        I am a <b>results-oriented Software Engineer</b> with 3+ years of experience building scalable backend architectures and AI-driven applications.
+        I am a <b>results-oriented Software Engineer</b> with 4+ years of experience building scalable backend architectures and AI-driven applications.
       </p>
       <ul>
         <li>🔭 <b>Current Focus:</b> Scalable Django Architectures & Generative AI Integrations.</li>
